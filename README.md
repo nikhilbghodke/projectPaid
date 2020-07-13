@@ -66,7 +66,7 @@ $ git clone https://github.com/niikhilghodke/Insilico-BuildSystem
 Gradle plugin is nothing but a code Written in JVM Language, so the process is similar to building any JVM project using Gradle.
 
 1) Clone the Project.
-2) Open Command Prompt inside the directory where the project has benn cloned.
+2) Open Command Prompt inside the directory where the project has been cloned.
 3) Type the following Command
 
 ```bash
