@@ -1,7 +1,7 @@
 
 # Insilico Build Gradle Plugin  [![Build Status](https://travis-ci.org/niikhilghodke/Insilico-BuildSystem.svg?branch=master)](https://travis-ci.org/niikhilghodke/Insilico-BuildSystem)
 
-This a Gradle Plugin which aims to let user create Osgi Bundes, Eclipse features, Eclipse Plugins and configure Osgi Application. The aims to ease out the process of creating and launching Osgi application. The project is still in development phase.
+This a Gradle Plugin which aims to let user create Osgi Bundles, Eclipse features, Eclipse Plugins and configure Osgi Application. The aims to ease out the process of creating and launching Osgi application. The project is still in development phase.
 
 ## User Documentation
 
